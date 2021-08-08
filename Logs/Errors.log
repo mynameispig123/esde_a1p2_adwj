@@ -1,0 +1,4 @@
+2021-08-07 14:36:14 error: backend > src > controllers > fileService.js Error for uploadFile! Error: {"message":"Upload preset not found","name":"Error","http_code":400}
+
+2021-08-07 14:36:14 error: backend > src > controllers > userController.js Error for processDesignSubmission! Userid: 100 Error: {"message":"Upload preset not found","name":"Error","http_code":400}
+
